@@ -16,7 +16,7 @@ Category filter panel Price range selection Sort options dropdown Results count 
 
 Product image Name and rating display Price in Indian Rupees (₹) format Description preview "Add to Cart" button Cart Panel:
 
-Overlay to close cart Header with "Your Cart" title Product list with images and quantity controls Total price calculation Empty state message 8. Technical Implementation Built with React 19.2.5 Uses React Hooks (useState, useMemo) for state management Efficient filtering and sorting with useMemo for performance Responsive CSS styling with modern design 9. Data & Formatting Products stored in products.json Indian Rupee (₹) currency formatting Rating system (1-5 stars) Multiple product attributes (id, name, category, price, rating, image, description) 🚀 Getting Started Access: http://localhost:3001 (or 3000)
+Overlay to close cart Header with "Your Cart" title Product list with images and quantity controls Total price calculation Empty state message 8. Technical Implementation Built with React 19.2.5 Uses React Hooks (useState, useMemo) for state management Efficient filtering and sorting with useMemo for performance Responsive CSS styling with modern design 9. Data & Formatting Products stored in products.json Indian Rupee (₹) currency formatting Rating system (1-5 stars) Multiple product attributes (id, name, category, price, rating, image, description).
 
 🔄 State Management The app manages the following states:
 
